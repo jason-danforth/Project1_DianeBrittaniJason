@@ -1,39 +1,45 @@
-,Station,Train,Borough
-0,3 Av-138 St ,6,The Bronx
-1,Brook Av ,6,The Bronx
-2,Buhre Av ,6,The Bronx
-3,Castle Hill Av ,6,The Bronx
-4,Cypress Av ,6,The Bronx
-5,East 143 St-St Mary's St ,6,The Bronx
-6,East 149 St ,6,The Bronx
-7,Elder Av,6,The Bronx
-8,Hunts Point Av ,6,The Bronx
-9,Longwood Av ,6,The Bronx
-10,Middletown Rd ,6,The Bronx
-11,Morrison Av-Soundview ,6,The Bronx
-12,Parkchester ,6,The Bronx
-13,Pelham Bay Park ,6,The Bronx
-14,St Lawrence Av ,6,The Bronx
-15,Westchester Sq-East Tremont Av ,6,The Bronx
-16,Whitlock Av ,6,The Bronx
-17,Zerega Av ,6,The Bronx
-18,103 St ,6,Manhattan
-19,110 St ,6,Manhattan
-20,116 St ,6,Manhattan
-21,125 St ,6,Manhattan
-22,14 St-Union Sq ,6,Manhattan
-23,23 St ,6,Manhattan
-24,28 St ,6,Manhattan
-25,33 St ,6,Manhattan
-26,68 St-Hunter College ,6,Manhattan
-27,77 St ,6,Manhattan
-28,86 St ,6,Manhattan
-29,96 St ,6,Manhattan
-30,Astor Place ,6,Manhattan
-31,Broadway-Lafayette St / Bleeker St,6,Manhattan
-32,Brooklyn Bridge-City Hall / Chambers St,6,Manhattan
-33,Canal St ,6,Manhattan
-34,Grand Central-42 St ,6,Manhattan
-35,Lexington Av / 59 St,6,Manhattan
-36,Lexington Av-53 St / 51 St,6,Manhattan
-37,Spring St ,6,Manhattan
+,Station,Train,Borough,2016-2018 Change (#),2016-2018 Change (%)
+0,Broadway Junction ,A,Brooklyn,-1047.0,-11.39
+1,Euclid Av ,A,Brooklyn,-679.0,-6.25
+2,Grant Av ,A,Brooklyn,-1148.0,-16.3
+3,High St ,A,Brooklyn,1580.0,18.16
+4,Hoyt-Schermerhorn Sts ,A,Brooklyn,646.0,6.53
+5,Jay St-MetroTech ,A,Brooklyn,-1993.0,-4.5
+6,Nostrand Av ,A,Brooklyn,-794.0,-4.36
+7,Utica Av ,A,Brooklyn,61.0,0.38
+8,125 St ,A,Manhattan,-1746.0,-5.93
+9,14 St / 8 Av,A,Manhattan,-649.0,-1.45
+10,145 St ,A,Manhattan,-1557.0,-6.33
+11,168 St ,A,Manhattan,259.0,1.0
+12,175 St ,A,Manhattan,-797.0,-5.96
+13,181 St ,A,Manhattan,-534.0,-4.73
+14,190 St ,A,Manhattan,-174.0,-3.66
+15,34 St-Penn Station ,A,Manhattan,-2238.0,-2.71
+16,59 St-Columbus Circle ,A,Manhattan,-833.0,-1.13
+17,Canal St ,A,Manhattan,764.0,3.89
+18,Chambers St / WTC / Park Place,A,Manhattan,4490.0,6.61
+19,Dyckman St ,A,Manhattan,-397.0,-5.78
+20,Fulton St ,A,Manhattan,7550.0,8.84
+21,Inwood-207 St ,A,Manhattan,-557.0,-5.96
+22,Times Sq-42 St / 42 St,A,Manhattan,1654.0,0.82
+23,West 4 St-Washington Sq ,A,Manhattan,-2089.0,-4.89
+24,104 St ,A,Queens,-348.0,-15.9
+25,111 St ,A,Queens,649.0,33.33
+26,80 St ,A,Queens,742.0,20.76
+27,88 St ,A,Queens,-386.0,-11.98
+28,Aqueduct Racetrack ,A,Queens,162.0,9.32
+29,Aqueduct-North Conduit Av ,A,Queens,-204.0,-18.13
+30,Beach 105 St ,A,Queens,-28.0,-9.69
+31,Beach 25 St ,A,Queens,-176.0,-8.94
+32,Beach 36 St ,A,Queens,-88.0,-9.03
+33,Beach 44 St ,A,Queens,17.0,2.51
+34,Beach 60 St ,A,Queens,-494.0,-19.7
+35,Beach 67 St-Arverne By The Sea ,A,Queens,-390.0,-15.64
+36,Beach 90 St ,A,Queens,158.0,16.83
+37,Beach 98 St ,A,Queens,-98.0,-16.93
+38,Broad Channel ,A,Queens,-28.0,-8.95
+39,Far Rockaway-MottAv ,A,Queens,-574.0,-11.46
+40,Howard Beach-JFK Airport ,A,Queens,365.0,12.12
+41,Ozone Park-Lefferts Blvd ,A,Queens,-432.0,-5.38
+42,Rockaway Blvd ,A,Queens,-149.0,-1.94
+43,Rockaway Park-Beach 116 St ,A,Queens,-31.0,-4.26
